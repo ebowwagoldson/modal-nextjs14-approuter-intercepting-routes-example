@@ -1,10 +1,6 @@
 # Modal Nextjs14 App Router Intercepting Routes Example
 
-Understood. I will focus solely on the code you provided and write the updated documentation from scratch, taking the time to provide a thorough and exhaustive explanation.
-
 # Intercepting Routes in a Next.js Image Gallery
-
-The code you provided demonstrates the implementation of an image gallery with a modal functionality using intercepting routes in a Next.js application.
 
 ## The `ImageGallery` Component
 
