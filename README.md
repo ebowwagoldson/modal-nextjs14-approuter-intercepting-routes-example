@@ -1,5 +1,4 @@
 # Modal Nextjs14 App Router Intercepting Routes Example
-Apologies for the brevity in my previous response. Let me provide a more exhaustive explanation of the code you provided, covering all the key aspects in detail.
 
 # Intercepting Routes
 
